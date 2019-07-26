@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-md",
+  "version": "1.0.0",
+  "description": "My primo Nuxt.js project",
+  "author": "qiang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/markdownit": "^1.2.6",
+    "github-markdown-css": "^3.0.1",
+    "highlight.js": "^9.15.8",
+    "html-loader": "^0.5.5",
+    "markdown-loader": "^5.0.0",
+    "marked": "^0.7.0",
+    "mavon-editor": "^2.7.5",
+    "nuxt": "^2.0.0",
+    "showdown": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
